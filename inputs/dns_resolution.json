@@ -1,0 +1,1335 @@
+{
+  "retrieved": "2026-09-12T03:39:00.107218+00:00",
+  "records": [
+    {
+      "host": "102.214.66.19",
+      "addresses": [
+        "102.214.66.19"
+      ],
+      "error": null
+    },
+    {
+      "host": "102.214.66.39",
+      "addresses": [
+        "102.214.66.39"
+      ],
+      "error": null
+    },
+    {
+      "host": "103.146.200.98",
+      "addresses": [
+        "103.146.200.98"
+      ],
+      "error": null
+    },
+    {
+      "host": "105.235.237.2",
+      "addresses": [
+        "105.235.237.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "109.61.86.65",
+      "addresses": [
+        "109.61.86.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "109.61.94.65",
+      "addresses": [
+        "109.61.94.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "121.127.43.65",
+      "addresses": [
+        "121.127.43.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "138.199.14.66",
+      "addresses": [
+        "138.199.14.66"
+      ],
+      "error": null
+    },
+    {
+      "host": "138.199.4.1",
+      "addresses": [
+        "138.199.4.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "138.199.57.129",
+      "addresses": [
+        "138.199.57.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "143.244.63.144",
+      "addresses": [
+        "143.244.63.144"
+      ],
+      "error": null
+    },
+    {
+      "host": "148.230.45.213",
+      "addresses": [
+        "148.230.45.213"
+      ],
+      "error": null
+    },
+    {
+      "host": "148.230.59.38",
+      "addresses": [
+        "148.230.59.38"
+      ],
+      "error": null
+    },
+    {
+      "host": "148.230.60.200",
+      "addresses": [
+        "148.230.60.200"
+      ],
+      "error": null
+    },
+    {
+      "host": "154.81.51.4",
+      "addresses": [
+        "154.81.51.4"
+      ],
+      "error": null
+    },
+    {
+      "host": "156.146.40.65",
+      "addresses": [
+        "156.146.40.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "156.146.52.1",
+      "addresses": [
+        "156.146.52.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "156.146.53.53",
+      "addresses": [
+        "156.146.53.53"
+      ],
+      "error": null
+    },
+    {
+      "host": "160.242.19.254",
+      "addresses": [
+        "160.242.19.254"
+      ],
+      "error": null
+    },
+    {
+      "host": "169.150.202.193",
+      "addresses": [
+        "169.150.202.193"
+      ],
+      "error": null
+    },
+    {
+      "host": "169.150.242.129",
+      "addresses": [
+        "169.150.242.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "169.150.252.2",
+      "addresses": [
+        "169.150.252.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "173.243.131.29",
+      "addresses": [
+        "173.243.131.29"
+      ],
+      "error": null
+    },
+    {
+      "host": "176.23.128.102",
+      "addresses": [
+        "176.23.128.102"
+      ],
+      "error": null
+    },
+    {
+      "host": "178.215.228.109",
+      "addresses": [
+        "178.215.228.109"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.102.217.170",
+      "addresses": [
+        "185.102.217.170"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.102.218.1",
+      "addresses": [
+        "185.102.218.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.102.219.93",
+      "addresses": [
+        "185.102.219.93"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.152.65.113",
+      "addresses": [
+        "185.152.65.113"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.152.66.67",
+      "addresses": [
+        "185.152.66.67"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.152.67.2",
+      "addresses": [
+        "185.152.67.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.180.12.40",
+      "addresses": [
+        "185.180.12.40"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.246.208.67",
+      "addresses": [
+        "185.246.208.67"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.3.160.57",
+      "addresses": [
+        "185.3.160.57"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.59.221.51",
+      "addresses": [
+        "185.59.221.51"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.59.223.8",
+      "addresses": [
+        "185.59.223.8"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.76.9.135",
+      "addresses": [
+        "185.76.9.135"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.93.1.65",
+      "addresses": [
+        "185.93.1.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.93.2.193",
+      "addresses": [
+        "185.93.2.193"
+      ],
+      "error": null
+    },
+    {
+      "host": "185.93.3.50",
+      "addresses": [
+        "185.93.3.50"
+      ],
+      "error": null
+    },
+    {
+      "host": "189.25.101.151",
+      "addresses": [
+        "189.25.101.151"
+      ],
+      "error": null
+    },
+    {
+      "host": "189.25.97.217",
+      "addresses": [
+        "189.25.97.217"
+      ],
+      "error": null
+    },
+    {
+      "host": "189.25.98.63",
+      "addresses": [
+        "189.25.98.63"
+      ],
+      "error": null
+    },
+    {
+      "host": "195.181.162.195",
+      "addresses": [
+        "195.181.162.195"
+      ],
+      "error": null
+    },
+    {
+      "host": "197.227.12.18",
+      "addresses": [
+        "197.227.12.18"
+      ],
+      "error": null
+    },
+    {
+      "host": "204.155.243.172",
+      "addresses": [
+        "204.155.243.172"
+      ],
+      "error": null
+    },
+    {
+      "host": "207.211.214.65",
+      "addresses": [
+        "207.211.214.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "209.40.123.215",
+      "addresses": [
+        "209.40.123.215"
+      ],
+      "error": null
+    },
+    {
+      "host": "212.60.92.134",
+      "addresses": [
+        "212.60.92.134"
+      ],
+      "error": null
+    },
+    {
+      "host": "213.158.175.240",
+      "addresses": [
+        "213.158.175.240"
+      ],
+      "error": null
+    },
+    {
+      "host": "217.61.40.96",
+      "addresses": [
+        "217.61.40.96"
+      ],
+      "error": null
+    },
+    {
+      "host": "23.249.54.234",
+      "addresses": [
+        "23.249.54.234"
+      ],
+      "error": null
+    },
+    {
+      "host": "23.249.55.42",
+      "addresses": [
+        "23.249.55.42"
+      ],
+      "error": null
+    },
+    {
+      "host": "23.249.58.14",
+      "addresses": [
+        "23.249.58.14"
+      ],
+      "error": null
+    },
+    {
+      "host": "23.249.60.154",
+      "addresses": [
+        "23.249.60.154"
+      ],
+      "error": null
+    },
+    {
+      "host": "37.19.203.1",
+      "addresses": [
+        "37.19.203.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "37.19.206.20",
+      "addresses": [
+        "37.19.206.20"
+      ],
+      "error": null
+    },
+    {
+      "host": "37.19.216.1",
+      "addresses": [
+        "37.19.216.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "37.19.218.65",
+      "addresses": [
+        "37.19.218.65"
+      ],
+      "error": null
+    },
+    {
+      "host": "41.110.39.130",
+      "addresses": [
+        "41.110.39.130"
+      ],
+      "error": null
+    },
+    {
+      "host": "41.210.185.162",
+      "addresses": [
+        "41.210.185.162"
+      ],
+      "error": null
+    },
+    {
+      "host": "49.205.75.2",
+      "addresses": [
+        "49.205.75.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "66.35.20.123",
+      "addresses": [
+        "66.35.20.123"
+      ],
+      "error": null
+    },
+    {
+      "host": "66.35.22.79",
+      "addresses": [
+        "66.35.22.79"
+      ],
+      "error": null
+    },
+    {
+      "host": "66.35.27.207",
+      "addresses": [
+        "66.35.27.207"
+      ],
+      "error": null
+    },
+    {
+      "host": "66.35.30.9",
+      "addresses": [
+        "66.35.30.9"
+      ],
+      "error": null
+    },
+    {
+      "host": "66.35.31.81",
+      "addresses": [
+        "66.35.31.81"
+      ],
+      "error": null
+    },
+    {
+      "host": "69.48.236.198",
+      "addresses": [
+        "69.48.236.198"
+      ],
+      "error": null
+    },
+    {
+      "host": "69.48.237.66",
+      "addresses": [
+        "69.48.237.66"
+      ],
+      "error": null
+    },
+    {
+      "host": "69.48.238.200",
+      "addresses": [
+        "69.48.238.200"
+      ],
+      "error": null
+    },
+    {
+      "host": "69.48.239.124",
+      "addresses": [
+        "69.48.239.124"
+      ],
+      "error": null
+    },
+    {
+      "host": "72.1.86.46",
+      "addresses": [
+        "72.1.86.46"
+      ],
+      "error": null
+    },
+    {
+      "host": "79.127.209.1",
+      "addresses": [
+        "79.127.209.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "84.17.41.11",
+      "addresses": [
+        "84.17.41.11"
+      ],
+      "error": null
+    },
+    {
+      "host": "84.17.57.129",
+      "addresses": [
+        "84.17.57.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "84.17.59.129",
+      "addresses": [
+        "84.17.59.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "87.249.137.8",
+      "addresses": [
+        "87.249.137.8"
+      ],
+      "error": null
+    },
+    {
+      "host": "89.187.160.1",
+      "addresses": [
+        "89.187.160.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "89.187.162.1",
+      "addresses": [
+        "89.187.162.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "89.187.164.1",
+      "addresses": [
+        "89.187.164.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "89.187.165.1",
+      "addresses": [
+        "89.187.165.1"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.38.22",
+      "addresses": [
+        "96.45.38.22"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.39.38",
+      "addresses": [
+        "96.45.39.38"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.40.45",
+      "addresses": [
+        "96.45.40.45"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.41.167",
+      "addresses": [
+        "96.45.41.167"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.42.156",
+      "addresses": [
+        "96.45.42.156"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.43.6",
+      "addresses": [
+        "96.45.43.6"
+      ],
+      "error": null
+    },
+    {
+      "host": "96.45.44.87",
+      "addresses": [
+        "96.45.44.87"
+      ],
+      "error": null
+    },
+    {
+      "host": "a110.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.39"
+      ],
+      "error": null
+    },
+    {
+      "host": "a204.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.247.4"
+      ],
+      "error": null
+    },
+    {
+      "host": "a205.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.197"
+      ],
+      "error": null
+    },
+    {
+      "host": "a208.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.102"
+      ],
+      "error": null
+    },
+    {
+      "host": "a209.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.73"
+      ],
+      "error": null
+    },
+    {
+      "host": "a210.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.8"
+      ],
+      "error": null
+    },
+    {
+      "host": "a400.speedtest.wobcom.de",
+      "addresses": [
+        "62.176.246.171"
+      ],
+      "error": null
+    },
+    {
+      "host": "akl.linetest.nz",
+      "addresses": [
+        "101.98.9.197"
+      ],
+      "error": null
+    },
+    {
+      "host": "ams.speedtest.clouvider.net",
+      "addresses": [
+        "194.127.172.176"
+      ],
+      "error": null
+    },
+    {
+      "host": "ash.speedtest.clouvider.net",
+      "addresses": [
+        "45.250.25.133"
+      ],
+      "error": null
+    },
+    {
+      "host": "atl.speedtest.clouvider.net",
+      "addresses": [
+        "92.119.16.139"
+      ],
+      "error": null
+    },
+    {
+      "host": "bwtest.linxtelecom.com",
+      "addresses": [
+        "212.47.219.73"
+      ],
+      "error": null
+    },
+    {
+      "host": "chch.linetest.nz",
+      "addresses": [
+        "101.98.9.201"
+      ],
+      "error": null
+    },
+    {
+      "host": "chi.speedtest.clouvider.net",
+      "addresses": [
+        "193.239.236.131"
+      ],
+      "error": null
+    },
+    {
+      "host": "coverage1.mobicom.mn",
+      "addresses": [
+        "27.123.215.194"
+      ],
+      "error": null
+    },
+    {
+      "host": "dal.speedtest.clouvider.net",
+      "addresses": [
+        "2.56.188.136"
+      ],
+      "error": null
+    },
+    {
+      "host": "dfw.speedtest.is.cc",
+      "addresses": [
+        "157.250.201.61"
+      ],
+      "error": null
+    },
+    {
+      "host": "fra.speedtest.clouvider.net",
+      "addresses": [
+        "91.199.118.184"
+      ],
+      "error": null
+    },
+    {
+      "host": "gw1.malabo.guineanet.net",
+      "addresses": [
+        "105.235.237.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf-ams-nl.eranium.net",
+      "addresses": [
+        "217.18.95.142"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf.as42831.net",
+      "addresses": [
+        "31.132.7.130"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf.fegis.nu",
+      "addresses": [
+        "143.14.22.69"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf.online.net",
+      "addresses": [
+        "51.158.1.21"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf.pendc.com",
+      "addresses": [
+        "62.106.94.245"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf.worldstream.nl",
+      "addresses": [
+        "185.182.195.76"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf1.surfwireless.nl",
+      "addresses": [
+        "145.0.6.51"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf3-vie-at.alwyzon.net",
+      "addresses": [
+        "104.143.1.141"
+      ],
+      "error": null
+    },
+    {
+      "host": "iperf3.moji.fr",
+      "addresses": [
+        "45.147.210.189"
+      ],
+      "error": null
+    },
+    {
+      "host": "it1.speedtest.aruba.it",
+      "addresses": [
+        "31.14.130.68"
+      ],
+      "error": null
+    },
+    {
+      "host": "la.speedtest.clouvider.net",
+      "addresses": [
+        "77.247.126.223"
+      ],
+      "error": null
+    },
+    {
+      "host": "lg.ams-nl.gigahost.no",
+      "addresses": [
+        "45.88.200.26"
+      ],
+      "error": null
+    },
+    {
+      "host": "lg.gigahost.no",
+      "addresses": [
+        "185.125.168.212"
+      ],
+      "error": null
+    },
+    {
+      "host": "lon.speedtest.clouvider.net",
+      "addresses": [
+        "5.180.211.133"
+      ],
+      "error": null
+    },
+    {
+      "host": "man.speedtest.clouvider.net",
+      "addresses": [
+        "103.214.44.130"
+      ],
+      "error": null
+    },
+    {
+      "host": "nl.speed.vps1.net",
+      "addresses": [
+        "194.135.46.48"
+      ],
+      "error": null
+    },
+    {
+      "host": "phx.speedtest.clouvider.net",
+      "addresses": [
+        "45.86.208.131"
+      ],
+      "error": null
+    },
+    {
+      "host": "ping-90ms.online.net",
+      "addresses": [
+        "51.158.1.19"
+      ],
+      "error": null
+    },
+    {
+      "host": "ping-ams1.online.net",
+      "addresses": [
+        "163.172.208.7"
+      ],
+      "error": null
+    },
+    {
+      "host": "ping.online.net",
+      "addresses": [
+        "51.158.1.21"
+      ],
+      "error": null
+    },
+    {
+      "host": "sgp.proof.ovh.net",
+      "addresses": [
+        "15.235.182.181"
+      ],
+      "error": null
+    },
+    {
+      "host": "spd-desrv.hostkey.com",
+      "addresses": [
+        "185.84.224.68"
+      ],
+      "error": null
+    },
+    {
+      "host": "spd-fisrv.hostkey.com",
+      "addresses": [
+        "212.237.217.41"
+      ],
+      "error": null
+    },
+    {
+      "host": "spd-icsrv.hostkey.com",
+      "addresses": [
+        "195.162.68.38"
+      ],
+      "error": null
+    },
+    {
+      "host": "spd-uswb.hostkey.com",
+      "addresses": [
+        "139.60.160.88"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed-cb.dimensione.com",
+      "addresses": [
+        "185.152.44.54"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed.cosmonova.net",
+      "addresses": [
+        "95.67.49.134"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed.couch.ca",
+      "addresses": [
+        "216.232.132.95"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed.mymanga.pro",
+      "addresses": [
+        "102.215.35.132"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed.netfiber.net.il",
+      "addresses": [
+        "212.76.127.243"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed.rimon.net.il",
+      "addresses": [
+        "212.76.127.244"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed1.fiberby.dk",
+      "addresses": [
+        "193.106.164.10"
+      ],
+      "error": null
+    },
+    {
+      "host": "speed2.fiberby.dk",
+      "addresses": [
+        "193.106.166.153"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedsrv.multinet24.pl",
+      "addresses": [
+        "178.217.143.20"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.ams1.nl.leaseweb.net",
+      "addresses": [
+        "95.211.20.80"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.ams2.nl.leaseweb.net",
+      "addresses": [
+        "178.162.166.76"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.chi11.us.leaseweb.net",
+      "addresses": [
+        "23.19.208.9"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.dal13.us.leaseweb.net",
+      "addresses": [
+        "209.58.159.68"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.fra1.de.leaseweb.net",
+      "addresses": [
+        "178.162.226.176"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.goco.ca",
+      "addresses": [
+        "74.49.158.20"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.hiper.dk",
+      "addresses": [
+        "185.118.248.162"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.hkg12.hk.leaseweb.net",
+      "addresses": [
+        "64.120.117.34"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.init7.net",
+      "addresses": [
+        "82.197.188.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.ip-projects.de",
+      "addresses": [
+        "185.245.99.75"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.iway.ch",
+      "addresses": [
+        "95.143.54.63"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.kamel.network",
+      "addresses": [
+        "93.177.80.27"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.lagoon.nc",
+      "addresses": [
+        "202.22.159.9"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.lax12.us.leaseweb.net",
+      "addresses": [
+        "23.105.41.222"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.level66.services",
+      "addresses": [
+        "141.98.136.66"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.lon1.uk.leaseweb.net",
+      "addresses": [
+        "23.106.58.162"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.lon12.uk.leaseweb.net",
+      "addresses": [
+        "81.17.61.145"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.masnet.ec",
+      "addresses": [
+        "170.83.216.19"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.mia11.us.leaseweb.net",
+      "addresses": [
+        "23.82.138.78"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.milkywan.fr",
+      "addresses": [
+        "80.67.167.93"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.mtl2.ca.leaseweb.net",
+      "addresses": [
+        "70.38.95.143"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.netone.nl",
+      "addresses": [
+        "195.95.177.10"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.nl1.mirhosting.net",
+      "addresses": [
+        "185.15.210.116"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.nocix.net",
+      "addresses": [
+        "208.110.65.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.nyc1.us.leaseweb.net",
+      "addresses": [
+        "108.62.52.129"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.phx1.us.leaseweb.net",
+      "addresses": [
+        "23.81.207.31"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.rapidswitch.com",
+      "addresses": [
+        "78.129.130.58"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.sea11.us.leaseweb.net",
+      "addresses": [
+        "23.82.193.66"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.sfo12.us.leaseweb.net",
+      "addresses": [
+        "23.81.166.99"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.shinternet.ch",
+      "addresses": [
+        "88.213.191.247"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.sin1.sg.leaseweb.net",
+      "addresses": [
+        "23.108.99.54"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.syd12.au.leaseweb.net",
+      "addresses": [
+        "23.106.244.70"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.tangerang2.myrepublic.net.id",
+      "addresses": [
+        "157.66.210.199"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.tyo11.jp.leaseweb.net",
+      "addresses": [
+        "23.106.226.75"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.uztelecom.uz",
+      "addresses": [
+        "195.69.189.215"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.wdc2.us.leaseweb.net",
+      "addresses": [
+        "23.105.9.80"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.wobcom.de",
+      "addresses": [
+        "62.176.224.217"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.wtnet.de",
+      "addresses": [
+        "213.209.106.95"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest.xmission.com",
+      "addresses": [
+        "198.60.22.18"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest1.cwpanama.net",
+      "addresses": [
+        "201.225.207.2"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest1.flowjamaica.com",
+      "addresses": [
+        "69.79.207.214"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest1.sox.rs",
+      "addresses": [
+        "88.218.137.64"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest2.lightningfibre.net.uk",
+      "addresses": [
+        "194.24.162.86"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtest6.cwpanama.net",
+      "addresses": [
+        "201.225.207.3"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtestfl.telecom.mu",
+      "addresses": [
+        "197.227.12.18"
+      ],
+      "error": null
+    },
+    {
+      "host": "speedtestlondon.telecom.mu",
+      "addresses": [
+        "197.227.5.218"
+      ],
+      "error": null
+    },
+    {
+      "host": "syd.proof.ovh.net",
+      "addresses": [
+        "51.161.209.134"
+      ],
+      "error": null
+    },
+    {
+      "host": "t5.cscs.ch",
+      "addresses": [
+        "148.187.129.10"
+      ],
+      "error": null
+    },
+    {
+      "host": "yyc-speedtest.xplore.ca",
+      "addresses": [
+        "69.168.185.43"
+      ],
+      "error": null
+    }
+  ]
+}

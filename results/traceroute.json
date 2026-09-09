@@ -1,0 +1,1195 @@
+[
+  {
+    "ip": "41.210.185.162",
+    "status": "complete",
+    "hop_count": 19,
+    "final_rtt_ms": 260.99266666666665,
+    "hops": [
+      {
+        "ttl": 1,
+        "ips": [
+          "192.168.10.1"
+        ],
+        "samples_ms": [
+          18.097,
+          35.209
+        ],
+        "avg_ms": 26.653000000000002,
+        "min_ms": 18.097,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 2,
+        "ips": [
+          "173.230.6.1"
+        ],
+        "samples_ms": [
+          5.082,
+          6.03,
+          6.117
+        ],
+        "avg_ms": 5.743,
+        "min_ms": 5.082,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 3,
+        "ips": [
+          "216.171.31.53"
+        ],
+        "samples_ms": [
+          5.871,
+          6.643,
+          5.019
+        ],
+        "avg_ms": 5.844333333333333,
+        "min_ms": 5.019,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 4,
+        "ips": [
+          "216.171.30.126"
+        ],
+        "samples_ms": [
+          8.485,
+          8.325,
+          10.661
+        ],
+        "avg_ms": 9.157,
+        "min_ms": 8.325,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 5,
+        "ips": [
+          "173.230.125.33"
+        ],
+        "samples_ms": [
+          8.971,
+          10.273,
+          9.922
+        ],
+        "avg_ms": 9.722,
+        "min_ms": 8.971,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 6,
+        "ips": [
+          "206.53.139.33"
+        ],
+        "samples_ms": [
+          14.233,
+          16.333,
+          14.151
+        ],
+        "avg_ms": 14.905666666666667,
+        "min_ms": 14.151,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 7,
+        "ips": [
+          "184.104.196.49"
+        ],
+        "samples_ms": [
+          102.781,
+          95.4
+        ],
+        "avg_ms": 99.0905,
+        "min_ms": 95.4,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 8,
+        "ips": [
+          "184.104.188.129"
+        ],
+        "samples_ms": [
+          126.694,
+          96.693,
+          123.133
+        ],
+        "avg_ms": 115.50666666666666,
+        "min_ms": 96.693,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 9,
+        "ips": [
+          "184.105.65.131"
+        ],
+        "samples_ms": [
+          95.227,
+          95.715,
+          97.223
+        ],
+        "avg_ms": 96.055,
+        "min_ms": 95.227,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 10,
+        "ips": [
+          "184.104.198.245"
+        ],
+        "samples_ms": [
+          98.009,
+          94.964,
+          106.679
+        ],
+        "avg_ms": 99.884,
+        "min_ms": 94.964,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 11,
+        "ips": [
+          "184.104.205.253"
+        ],
+        "samples_ms": [
+          99.887,
+          100.062,
+          99.246
+        ],
+        "avg_ms": 99.73166666666667,
+        "min_ms": 99.246,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 12,
+        "ips": [
+          "41.181.244.170"
+        ],
+        "samples_ms": [
+          94.879,
+          93.646,
+          92.996
+        ],
+        "avg_ms": 93.84033333333333,
+        "min_ms": 92.996,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 13,
+        "ips": [
+          "41.181.244.163"
+        ],
+        "samples_ms": [
+          94.345,
+          95.037,
+          95.158
+        ],
+        "avg_ms": 94.84666666666666,
+        "min_ms": 94.345,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 14,
+        "ips": [
+          "41.181.244.176"
+        ],
+        "samples_ms": [
+          94.976,
+          107.974,
+          95.094
+        ],
+        "avg_ms": 99.348,
+        "min_ms": 94.976,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 15,
+        "ips": [
+          "41.181.247.37"
+        ],
+        "samples_ms": [
+          245.494,
+          245.812,
+          245.778
+        ],
+        "avg_ms": 245.69466666666668,
+        "min_ms": 245.494,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 16,
+        "ips": [
+          "41.210.190.133"
+        ],
+        "samples_ms": [
+          248.916,
+          264.792,
+          248.369
+        ],
+        "avg_ms": 254.02566666666667,
+        "min_ms": 248.369,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 17,
+        "ips": [
+          "41.210.190.168"
+        ],
+        "samples_ms": [
+          243.003,
+          242.203,
+          244.091
+        ],
+        "avg_ms": 243.099,
+        "min_ms": 242.203,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 18,
+        "ips": [
+          "41.210.185.45"
+        ],
+        "samples_ms": [
+          245.463,
+          259.953,
+          247.21
+        ],
+        "avg_ms": 250.87533333333332,
+        "min_ms": 245.463,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 19,
+        "ips": [
+          "41.210.185.162"
+        ],
+        "samples_ms": [
+          275.395,
+          247.487,
+          260.096
+        ],
+        "avg_ms": 260.99266666666665,
+        "min_ms": 247.487,
+        "unreachable": false,
+        "destination": true
+      }
+    ],
+    "protocol": "ICMP"
+  },
+  {
+    "ip": "212.47.219.73",
+    "status": "complete",
+    "hop_count": 17,
+    "final_rtt_ms": 134.27933333333334,
+    "hops": [
+      {
+        "ttl": 1,
+        "ips": [
+          "192.168.10.1"
+        ],
+        "samples_ms": [
+          18.198,
+          5.839
+        ],
+        "avg_ms": 12.0185,
+        "min_ms": 5.839,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 2,
+        "ips": [
+          "173.230.6.1"
+        ],
+        "samples_ms": [
+          5.622,
+          5.419,
+          5.577
+        ],
+        "avg_ms": 5.539333333333333,
+        "min_ms": 5.419,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 3,
+        "ips": [
+          "216.171.31.53"
+        ],
+        "samples_ms": [
+          6.167,
+          6.579,
+          5.927
+        ],
+        "avg_ms": 6.224333333333333,
+        "min_ms": 5.927,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 4,
+        "ips": [
+          "216.171.30.126"
+        ],
+        "samples_ms": [
+          8.7,
+          9.375,
+          9.195
+        ],
+        "avg_ms": 9.09,
+        "min_ms": 8.7,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 5,
+        "ips": [
+          "173.230.125.90"
+        ],
+        "samples_ms": [
+          11.777,
+          12.026,
+          11.369
+        ],
+        "avg_ms": 11.724,
+        "min_ms": 11.369,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 6,
+        "ips": [
+          "128.241.8.22"
+        ],
+        "samples_ms": [
+          12.386,
+          12.642,
+          13.324
+        ],
+        "avg_ms": 12.783999999999999,
+        "min_ms": 12.386,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 7,
+        "ips": [
+          "129.250.4.96"
+        ],
+        "samples_ms": [
+          13.015,
+          14.149,
+          13.437
+        ],
+        "avg_ms": 13.533666666666667,
+        "min_ms": 13.015,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 8,
+        "ips": [
+          "129.250.2.190"
+        ],
+        "samples_ms": [
+          33.336,
+          32.669,
+          32.429
+        ],
+        "avg_ms": 32.81133333333333,
+        "min_ms": 32.429,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 9,
+        "ips": [
+          "129.250.6.5"
+        ],
+        "samples_ms": [
+          110.883,
+          122.785,
+          111.904
+        ],
+        "avg_ms": 115.19066666666666,
+        "min_ms": 110.883,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 10,
+        "ips": [
+          "129.250.4.148"
+        ],
+        "samples_ms": [
+          214.437,
+          212.584,
+          214.212
+        ],
+        "avg_ms": 213.74433333333334,
+        "min_ms": 212.584,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 11,
+        "ips": [
+          "129.250.2.2"
+        ],
+        "samples_ms": [
+          129.696,
+          114.012,
+          120.475
+        ],
+        "avg_ms": 121.39433333333334,
+        "min_ms": 114.012,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 12,
+        "ips": [
+          "129.250.2.68"
+        ],
+        "samples_ms": [
+          114.813,
+          114.797,
+          115.873
+        ],
+        "avg_ms": 115.161,
+        "min_ms": 114.797,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 13,
+        "ips": [
+          "129.250.3.69"
+        ],
+        "samples_ms": [
+          139.398,
+          140.215,
+          142.189
+        ],
+        "avg_ms": 140.60066666666665,
+        "min_ms": 139.398,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 14,
+        "ips": [
+          "83.231.187.154"
+        ],
+        "samples_ms": [
+          128.117,
+          128.044,
+          128.905
+        ],
+        "avg_ms": 128.35533333333333,
+        "min_ms": 128.044,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 15,
+        "ips": [
+          "212.47.201.68"
+        ],
+        "samples_ms": [
+          132.284,
+          133.785,
+          133.221
+        ],
+        "avg_ms": 133.09666666666666,
+        "min_ms": 132.284,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 16,
+        "ips": [
+          "212.47.201.30"
+        ],
+        "samples_ms": [
+          134.737,
+          134.314,
+          133.625
+        ],
+        "avg_ms": 134.22533333333334,
+        "min_ms": 133.625,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 17,
+        "ips": [
+          "212.47.219.73"
+        ],
+        "samples_ms": [
+          134.284,
+          133.75,
+          134.804
+        ],
+        "avg_ms": 134.27933333333334,
+        "min_ms": 133.75,
+        "unreachable": false,
+        "destination": true
+      }
+    ],
+    "protocol": "ICMP"
+  },
+  {
+    "ip": "143.244.63.144",
+    "status": "complete",
+    "hop_count": 12,
+    "final_rtt_ms": 212.69766666666666,
+    "hops": [
+      {
+        "ttl": 1,
+        "ips": [
+          "192.168.10.1"
+        ],
+        "samples_ms": [
+          18.086
+        ],
+        "avg_ms": 18.086,
+        "min_ms": 18.086,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 2,
+        "ips": [
+          "173.230.6.1"
+        ],
+        "samples_ms": [
+          10.718,
+          6.008
+        ],
+        "avg_ms": 8.363,
+        "min_ms": 6.008,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 3,
+        "ips": [
+          "216.171.31.53"
+        ],
+        "samples_ms": [
+          7.657,
+          7.828,
+          37.021
+        ],
+        "avg_ms": 17.502,
+        "min_ms": 7.657,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 4,
+        "ips": [
+          "216.171.30.126"
+        ],
+        "samples_ms": [
+          9.899,
+          10.238,
+          13.135
+        ],
+        "avg_ms": 11.090666666666666,
+        "min_ms": 9.899,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 5,
+        "ips": [
+          "173.230.125.90"
+        ],
+        "samples_ms": [
+          12.053,
+          13.513,
+          14.33
+        ],
+        "avg_ms": 13.298666666666668,
+        "min_ms": 12.053,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 6,
+        "ips": [
+          "216.66.73.137"
+        ],
+        "samples_ms": [
+          15.387
+        ],
+        "avg_ms": 15.387,
+        "min_ms": 15.387,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 7,
+        "ips": [
+          "184.104.199.23"
+        ],
+        "samples_ms": [
+          16.08,
+          15.534,
+          15.261
+        ],
+        "avg_ms": 15.625,
+        "min_ms": 15.261,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 8,
+        "ips": [],
+        "samples_ms": [],
+        "avg_ms": null,
+        "min_ms": null,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 9,
+        "ips": [
+          "184.105.64.221"
+        ],
+        "samples_ms": [
+          214.788,
+          207.941,
+          207.4
+        ],
+        "avg_ms": 210.043,
+        "min_ms": 207.4,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 10,
+        "ips": [
+          "184.104.194.234"
+        ],
+        "samples_ms": [
+          204.008,
+          204.096,
+          203.318
+        ],
+        "avg_ms": 203.80733333333333,
+        "min_ms": 203.318,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 11,
+        "ips": [
+          "202.77.88.64"
+        ],
+        "samples_ms": [
+          203.0,
+          204.198,
+          218.811
+        ],
+        "avg_ms": 208.66966666666667,
+        "min_ms": 203.0,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 12,
+        "ips": [
+          "143.244.63.144"
+        ],
+        "samples_ms": [
+          203.45,
+          209.905,
+          224.738
+        ],
+        "avg_ms": 212.69766666666666,
+        "min_ms": 203.45,
+        "unreachable": false,
+        "destination": true
+      }
+    ],
+    "protocol": "ICMP"
+  },
+  {
+    "ip": "143.14.22.69",
+    "status": "complete",
+    "hop_count": 21,
+    "final_rtt_ms": 124.10033333333334,
+    "hops": [
+      {
+        "ttl": 1,
+        "ips": [
+          "192.168.10.1"
+        ],
+        "samples_ms": [
+          18.166
+        ],
+        "avg_ms": 18.166,
+        "min_ms": 18.166,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 2,
+        "ips": [
+          "173.230.6.1"
+        ],
+        "samples_ms": [
+          8.506,
+          7.189
+        ],
+        "avg_ms": 7.8475,
+        "min_ms": 7.189,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 3,
+        "ips": [
+          "216.171.31.53"
+        ],
+        "samples_ms": [
+          7.313,
+          7.775,
+          36.837
+        ],
+        "avg_ms": 17.308333333333334,
+        "min_ms": 7.313,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 4,
+        "ips": [
+          "216.171.30.126"
+        ],
+        "samples_ms": [
+          9.919,
+          9.718,
+          13.633
+        ],
+        "avg_ms": 11.09,
+        "min_ms": 9.718,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 5,
+        "ips": [],
+        "samples_ms": [],
+        "avg_ms": null,
+        "min_ms": null,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 6,
+        "ips": [
+          "154.24.86.25"
+        ],
+        "samples_ms": [
+          10.461,
+          9.721,
+          8.805
+        ],
+        "avg_ms": 9.662333333333333,
+        "min_ms": 8.805,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 7,
+        "ips": [
+          "154.54.172.158"
+        ],
+        "samples_ms": [
+          13.781,
+          13.079,
+          14.718
+        ],
+        "avg_ms": 13.859333333333334,
+        "min_ms": 13.079,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 8,
+        "ips": [
+          "154.54.7.130"
+        ],
+        "samples_ms": [
+          20.047,
+          20.139,
+          20.065
+        ],
+        "avg_ms": 20.083666666666666,
+        "min_ms": 20.047,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 9,
+        "ips": [
+          "154.54.162.170"
+        ],
+        "samples_ms": [
+          108.027,
+          108.01,
+          113.147
+        ],
+        "avg_ms": 109.72800000000001,
+        "min_ms": 108.01,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 10,
+        "ips": [
+          "154.54.46.33"
+        ],
+        "samples_ms": [
+          116.057,
+          113.08,
+          118.798
+        ],
+        "avg_ms": 115.97833333333334,
+        "min_ms": 113.08,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 11,
+        "ips": [
+          "154.54.94.46"
+        ],
+        "samples_ms": [
+          100.312,
+          100.145,
+          105.096
+        ],
+        "avg_ms": 101.851,
+        "min_ms": 100.145,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 12,
+        "ips": [
+          "154.54.72.181"
+        ],
+        "samples_ms": [
+          111.184,
+          104.498,
+          104.798
+        ],
+        "avg_ms": 106.82666666666667,
+        "min_ms": 104.498,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 13,
+        "ips": [
+          "154.54.72.186"
+        ],
+        "samples_ms": [
+          113.788,
+          109.393,
+          108.505
+        ],
+        "avg_ms": 110.562,
+        "min_ms": 108.505,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 14,
+        "ips": [
+          "154.54.38.210"
+        ],
+        "samples_ms": [
+          111.995,
+          112.908,
+          121.464
+        ],
+        "avg_ms": 115.45566666666667,
+        "min_ms": 111.995,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 15,
+        "ips": [
+          "154.54.61.230"
+        ],
+        "samples_ms": [
+          122.119,
+          125.391,
+          129.784
+        ],
+        "avg_ms": 125.76466666666667,
+        "min_ms": 122.119,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 16,
+        "ips": [
+          "154.54.61.238"
+        ],
+        "samples_ms": [
+          134.091,
+          131.242,
+          131.6
+        ],
+        "avg_ms": 132.311,
+        "min_ms": 131.242,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 17,
+        "ips": [
+          "154.54.75.85"
+        ],
+        "samples_ms": [
+          126.686,
+          127.236,
+          126.976
+        ],
+        "avg_ms": 126.96600000000001,
+        "min_ms": 126.686,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 18,
+        "ips": [
+          "149.6.168.45"
+        ],
+        "samples_ms": [
+          121.671,
+          141.792,
+          121.844
+        ],
+        "avg_ms": 128.43566666666666,
+        "min_ms": 121.671,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 19,
+        "ips": [
+          "195.128.254.50"
+        ],
+        "samples_ms": [
+          122.463,
+          136.512,
+          121.435
+        ],
+        "avg_ms": 126.80333333333333,
+        "min_ms": 121.435,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 20,
+        "ips": [
+          "143.14.22.2"
+        ],
+        "samples_ms": [
+          122.577,
+          124.319,
+          122.569
+        ],
+        "avg_ms": 123.155,
+        "min_ms": 122.569,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 21,
+        "ips": [
+          "143.14.22.69"
+        ],
+        "samples_ms": [
+          127.251,
+          122.129,
+          122.921
+        ],
+        "avg_ms": 124.10033333333334,
+        "min_ms": 122.129,
+        "unreachable": false,
+        "destination": true
+      }
+    ],
+    "protocol": "ICMP"
+  },
+  {
+    "ip": "69.168.185.43",
+    "status": "complete",
+    "hop_count": 10,
+    "final_rtt_ms": 46.021,
+    "hops": [
+      {
+        "ttl": 1,
+        "ips": [
+          "192.168.10.1"
+        ],
+        "samples_ms": [
+          18.03
+        ],
+        "avg_ms": 18.03,
+        "min_ms": 18.03,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 2,
+        "ips": [
+          "173.230.6.1"
+        ],
+        "samples_ms": [
+          8.509,
+          7.189,
+          5.923
+        ],
+        "avg_ms": 7.207,
+        "min_ms": 5.923,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 3,
+        "ips": [
+          "216.171.31.53"
+        ],
+        "samples_ms": [
+          6.252,
+          6.837,
+          6.243
+        ],
+        "avg_ms": 6.444,
+        "min_ms": 6.243,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 4,
+        "ips": [
+          "216.171.30.126"
+        ],
+        "samples_ms": [
+          8.962,
+          9.724,
+          13.701
+        ],
+        "avg_ms": 10.795666666666667,
+        "min_ms": 8.962,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 5,
+        "ips": [
+          "173.230.125.90"
+        ],
+        "samples_ms": [
+          19.46,
+          17.289,
+          19.54
+        ],
+        "avg_ms": 18.763,
+        "min_ms": 17.289,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 6,
+        "ips": [],
+        "samples_ms": [],
+        "avg_ms": null,
+        "min_ms": null,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 7,
+        "ips": [
+          "206.223.119.195"
+        ],
+        "samples_ms": [
+          13.181,
+          14.921,
+          15.034
+        ],
+        "avg_ms": 14.378666666666666,
+        "min_ms": 13.181,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 8,
+        "ips": [
+          "74.127.232.31"
+        ],
+        "samples_ms": [
+          30.716,
+          35.353,
+          51.822
+        ],
+        "avg_ms": 39.297000000000004,
+        "min_ms": 30.716,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 9,
+        "ips": [],
+        "samples_ms": [],
+        "avg_ms": null,
+        "min_ms": null,
+        "unreachable": false,
+        "destination": false
+      },
+      {
+        "ttl": 10,
+        "ips": [
+          "69.168.185.43"
+        ],
+        "samples_ms": [
+          46.438,
+          44.946,
+          46.679
+        ],
+        "avg_ms": 46.021,
+        "min_ms": 44.946,
+        "unreachable": false,
+        "destination": true
+      }
+    ],
+    "protocol": "ICMP"
+  }
+]

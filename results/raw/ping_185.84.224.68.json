@@ -1,0 +1,15 @@
+{
+  "command": [
+    "ping",
+    "-n",
+    "-c",
+    "5",
+    "-W",
+    "1000",
+    "185.84.224.68"
+  ],
+  "started": "2026-09-12T03:39:29.488663+00:00",
+  "output": "PING 185.84.224.68 (185.84.224.68): 56 data bytes\nRequest timeout for icmp_seq 0\nRequest timeout for icmp_seq 1\nRequest timeout for icmp_seq 2\nRequest timeout for icmp_seq 3\n\n--- 185.84.224.68 ping statistics ---\n5 packets transmitted, 0 packets received, 100.0% packet loss\n",
+  "returncode": 2,
+  "timed_out": false
+}

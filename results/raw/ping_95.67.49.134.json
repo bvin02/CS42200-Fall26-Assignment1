@@ -1,0 +1,15 @@
+{
+  "command": [
+    "ping",
+    "-n",
+    "-c",
+    "5",
+    "-W",
+    "1000",
+    "95.67.49.134"
+  ],
+  "started": "2026-09-12T03:40:32.089676+00:00",
+  "output": "PING 95.67.49.134 (95.67.49.134): 56 data bytes\n64 bytes from 95.67.49.134: icmp_seq=0 ttl=46 time=147.813 ms\n64 bytes from 95.67.49.134: icmp_seq=1 ttl=46 time=151.665 ms\n64 bytes from 95.67.49.134: icmp_seq=2 ttl=46 time=168.291 ms\n64 bytes from 95.67.49.134: icmp_seq=3 ttl=46 time=147.784 ms\n64 bytes from 95.67.49.134: icmp_seq=4 ttl=46 time=147.795 ms\n\n--- 95.67.49.134 ping statistics ---\n5 packets transmitted, 5 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 147.784/152.670/168.291/7.953 ms\n",
+  "returncode": 0,
+  "timed_out": false
+}

@@ -1,0 +1,15 @@
+{
+  "command": [
+    "ping",
+    "-n",
+    "-c",
+    "5",
+    "-W",
+    "1000",
+    "157.66.210.199"
+  ],
+  "started": "2026-09-12T03:39:14.586888+00:00",
+  "output": "PING 157.66.210.199 (157.66.210.199): 56 data bytes\nRequest timeout for icmp_seq 0\nRequest timeout for icmp_seq 1\n64 bytes from 157.66.210.199: icmp_seq=2 ttl=44 time=268.230 ms\n64 bytes from 157.66.210.199: icmp_seq=3 ttl=44 time=329.003 ms\n64 bytes from 157.66.210.199: icmp_seq=4 ttl=44 time=267.026 ms\n\n--- 157.66.210.199 ping statistics ---\n5 packets transmitted, 3 packets received, 40.0% packet loss\nround-trip min/avg/max/stddev = 267.026/288.086/329.003/28.937 ms\n",
+  "returncode": 0,
+  "timed_out": false
+}

@@ -1,0 +1,15 @@
+{
+  "command": [
+    "ping",
+    "-n",
+    "-c",
+    "5",
+    "-W",
+    "1000",
+    "95.143.54.63"
+  ],
+  "started": "2026-09-12T03:40:31.595371+00:00",
+  "output": "PING 95.143.54.63 (95.143.54.63): 56 data bytes\n64 bytes from 95.143.54.63: icmp_seq=0 ttl=51 time=112.664 ms\n64 bytes from 95.143.54.63: icmp_seq=1 ttl=51 time=134.479 ms\n64 bytes from 95.143.54.63: icmp_seq=2 ttl=51 time=114.967 ms\n64 bytes from 95.143.54.63: icmp_seq=3 ttl=51 time=112.740 ms\n64 bytes from 95.143.54.63: icmp_seq=4 ttl=51 time=113.751 ms\n\n--- 95.143.54.63 ping statistics ---\n5 packets transmitted, 5 packets received, 0.0% packet loss\nround-trip min/avg/max/stddev = 112.664/117.720/134.479/8.421 ms\n",
+  "returncode": 0,
+  "timed_out": false
+}

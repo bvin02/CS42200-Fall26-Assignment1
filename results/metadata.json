@@ -1,0 +1,43 @@
+{
+  "started": "2026-09-12T03:39:00.281333+00:00",
+  "platform": "macOS-26.3-arm64-arm-64bit",
+  "python": "3.12.2 (main, May 23 2026, 15:48:54) [Clang 17.0.0 (clang-1700.6.3.2)]",
+  "source": "https://iperf3serverlist.net/api/servers",
+  "input": "/Users/bhavinsg/Purdue/Junior/CS 42200 - Computer Networks/Assigment-1/inputs/ips.txt",
+  "own_ip": "173.230.6.130",
+  "origin": {
+    "latitude": 40.4237,
+    "longitude": -86.9212,
+    "city": "Purdue University, West Lafayette, IN",
+    "source": "manual coordinates",
+    "caveat": "User-supplied approximate coordinates."
+  },
+  "config": {
+    "action": "run",
+    "input": "inputs/ips.txt",
+    "output": "results",
+    "count": 5,
+    "wait": 1.0,
+    "workers": 8,
+    "trace_workers": 5,
+    "max_hops": 30,
+    "probes": 3,
+    "trace_timeout": 120,
+    "seed": 422,
+    "origin_label": "Purdue University, West Lafayette, IN",
+    "origin_lat": 40.4237,
+    "origin_lon": -86.9212,
+    "own_ip": null,
+    "repo_url": "https://github.com/bvin02/CS42200-Fall26-Assignment1"
+  },
+  "finished": "2026-09-12T03:43:19.279278+00:00",
+  "ping_targets": 188,
+  "completed_traces": 5,
+  "selected_ips": [
+    "41.210.185.162",
+    "212.47.219.73",
+    "143.244.63.144",
+    "143.14.22.69",
+    "69.168.185.43"
+  ]
+}
